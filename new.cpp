@@ -1,8 +1,8 @@
 #include <iostream>
 using namespace std;
 int main() {
-    cout << "NEW CODING";
-    cout << "NEW FILE";
-    cout << "NEW FOLDER";
+    cout << "NEW CODING\n";
+    cout << "NEW FILE\n";
+    cout << "NEW FOLDER\n";
     return 0;
 }
