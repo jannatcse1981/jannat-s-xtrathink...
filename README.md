@@ -1,19 +1,26 @@
-# C Programming Projects
-assalamualikum... I am JANNAT
-Welcome to the **C Programming Projects Repository** 🎉  
-This repository contains beginner to advanced level C programs, examples, and practice codes to help learners strengthen their programming skills.
+# 🌟 Fabiha Jannat — CSE Student
+ASSALAMUALIKUM...I am JANNAT
+Welcome to my repository!  
+Here you’ll find my C programming practice codes, projects, and learning journey.  
+I love connecting with people and sharing my work — so here are all my social links in one place.  
 
 ---
 
-## 📌 Features
-- Well‑structured C source codes
-- Examples covering basic to advanced concepts
-- Easy to understand and beginner‑friendly
-- Organized by topics (loops, arrays, functions, pointers, etc.)
+## 🔗 Connect with Me
+- **GitHub**: [jannatcse1981](https://github.com/jannatcse1981)  
+- **LinkedIn**: [Fabiha Jannat](https://www.linkedin.com/in/fabiha-jannat-67a787424)  
+- **Instagram**: [@jannat.cse.bd](https://www.instagram.com/jannat.cse.bd)  
 
 ---
 
-## 🚀 Getting Started
+## 📌 About This Repository
+- Contains beginner to advanced C programming codes  
+- Examples of loops, arrays, functions, pointers, and more  
+- Well‑structured and beginner‑friendly  
+
+---
+
+## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/jannatcse1981/jannatcse1918-c-and-c-.git
+   git clone https://github.com/jannatcse1981/jannatcse-forloops-.git
