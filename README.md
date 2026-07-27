@@ -1,20 +1,19 @@
-# C++ Programming Repository
+# C Programming Projects
+assalamualikum... I am JANNAT
+Welcome to the **C Programming Projects Repository** 🎉  
+This repository contains beginner to advanced level C programs, examples, and practice codes to help learners strengthen their programming skills.
 
-Welcome to my C++ repository! This repository contains C++ source code files and related program solutions.
+---
 
-## 📁 Repository Structure
+## 📌 Features
+- Well‑structured C source codes
+- Examples covering basic to advanced concepts
+- Easy to understand and beginner‑friendly
+- Organized by topics (loops, arrays, functions, pointers, etc.)
 
-* **`new.cpp`**: Contains C++ source code implementation.
-* **`new.exe`**: Executable binary file generated from the source code.
+---
 
-## 🛠️ How to Run
-
-### Prerequisites
-Make sure you have a C++ compiler installed on your system (e.g., `G++` / `GCC` or `MinGW`).
-
-### Compilation & Execution (Via Terminal)
-
-1. **Compile the code:**
+## 🚀 Getting Started
+1. Clone the repository:
    ```bash
-   g++ new.cpp -o new.exe
-   This is created by jannatcsebd
+   git clone https://github.com/jannatcse1981/jannatcse1918-c-and-c-.git
