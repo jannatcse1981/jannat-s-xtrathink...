@@ -1,5 +1,7 @@
 # 🌟 Fabiha Jannat — CSE Student
+
 ASSALAMUALIKUM...I am JANNAT
+
 Welcome to my repository!  
 Here you’ll find my C programming practice codes, projects, and learning journey.  
 I love connecting with people and sharing my work — so here are all my social links in one place.  
